@@ -15,7 +15,7 @@ public class Calculator {
     private WindowsDriver calcsession = null;
     private WebElement calcresult = null;
     @BeforeClass
-    public void setup()  {
+    public void asetup()  {
         System.out.println("setup");
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("app", "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App");
