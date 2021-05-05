@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc96f842-08d8-4668-805b-3bfd9f8e75e6" name="Default Changelist" comment="POM classes got added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc96f842-08d8-4668-805b-3bfd9f8e75e6" name="Default Changelist" comment="notepad application testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620138544942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="notepad application testing">
+      <created>1620222708000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620222708000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="POM classes got added" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM classes got added" />
+    <MESSAGE value="notepad application testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="notepad application testing" />
   </component>
 </project>
